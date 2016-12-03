@@ -4,3 +4,6 @@ Að sækja vinnu annara
 Gummi mættur á svæðið
 
 Breytingar frá kag
+
+Mjög mikilvægar breytingar.
+
